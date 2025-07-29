@@ -74,8 +74,8 @@
   </style>
 </head>
 <body>
-  <img src="https://stimg.sooplive.co.kr/NORMAL_BBS/8/19611068/4621686a578f4719a.jpeg" class="logo" alt="Dohee Logo">
-  <h1>Dohee 최신시그목록</h1>
+  <img src="https://stimg.sooplive.co.kr/NORMAL_BBS/8/19611068/4621686a578f4719a.jpeg" class="logo" alt="Shuck Logo">
+  <h1>Shuck 시그목록</h1>
   <input type="text" id="searchInput" placeholder="곡 제목으로로 검색 (예:뛰어)">
   <div class="table-container">
     <table id="sigTable">
