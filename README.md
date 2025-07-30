@@ -91,8 +91,7 @@
   <div class="count" id="countInfo"></div>
 
   <script>
-    const sigData = `100jhkj
-    88💜 1999(힙레)
+    const sigData = `88💜 1999(힙레)
 92💜 간체조
 93💜 나니가스키
 94💜 쓸애기
